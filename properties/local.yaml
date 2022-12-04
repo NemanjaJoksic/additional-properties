@@ -1,0 +1,8 @@
+app:
+  user-service:
+    url: http://userservice.com/api/users
+    username: abc
+    password: pass
+
+  security:
+    enabled: true
